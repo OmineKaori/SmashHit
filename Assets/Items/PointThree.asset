@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7984ad76227af44d8b5a16b7b772d21f, type: 3}
+  m_Name: PointThree
+  m_EditorClassIdentifier: 
+  name: PointThree
+  itemCanvas: {fileID: 6925621177486065851, guid: 35f52036ac2ee43bfb06cfda13402141,
+    type: 3}
+  usedItemMaterial: {fileID: 2100000, guid: 001e31db695e74b6fa65d470898c00dd, type: 2}
+  point: 3
+  itemCrackingSound: {fileID: 8300000, guid: cc54b8120821b4db397e29497d59167a, type: 3}
